@@ -250,53 +250,7 @@ Machine learning pipeline using ELO ratings, engineered team statistics and ense
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img
-src="./profile/stats.svg"
-alt="Ayush Chaki GitHub Statistics"
-width="48%"
->
-
-<img
-src="./profile/top-langs.svg"
-alt="Ayush Chaki Top Languages"
-width="48%"
->
-
-</p>
-
----
-
-# 📈 Contribution Analytics
-
-<p align="center">
-
-<img
-src="./profile/metrics.svg"
-alt="Ayush Chaki GitHub Contribution Analytics"
-width="100%"
->
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img
-src="./profile/calendar.svg"
-alt="Ayush Chaki Contribution Calendar"
-width="100%"
->
-
-</p>
-
----
 
 # 💻 DSA & Problem Solving
 
