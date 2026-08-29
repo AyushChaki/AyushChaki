@@ -1,81 +1,86 @@
-````markdown
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                    AYUSH CHAKI                            -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Ayush Chaki</h1>
+<div align="center">
 
-<h3 align="center">
-  AI/ML Enthusiast • GenAI & Agentic AI Builder • Data Science • DSA & C++
-</h3>
+<h1>👋 Hi, I'm Ayush Chaki</h1>
 
-<p align="center">
-  <a href="https://github.com/AyushChaki">
-    <img src="https://komarev.com/ghpvc/?username=AyushChaki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/AyushChaki?tab=followers">
-    <img src="https://img.shields.io/github/followers/AyushChaki?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/AyushChaki?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AyushChaki?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
-  </a>
+<h3>AI/ML • Generative AI • Agentic AI • Data Science • DSA & C++</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+%26+Agentic+AI;Solving+DSA+problems+in+C%2B%2B;Turning+ideas+into+real-world+projects" alt="Typing SVG">
+
+<br><br>
+
+<a href="https://github.com/AyushChaki">
+<img src="https://img.shields.io/github/followers/AyushChaki?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+</a>
+
+<a href="https://github.com/AyushChaki?tab=repositories">
+<img src="https://img.shields.io/github/stars/AyushChaki?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AyushChaki&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **Biotechnology undergraduate at NIT Rourkela** interested in building intelligent systems at the intersection of **AI, data, and real-world applications**.
+
+My current journey revolves around **Machine Learning, Generative AI, RAG systems, Agentic AI, and Data Science**, while simultaneously building strong foundations in **Data Structures & Algorithms using C++**.
+
+I enjoy taking an idea from:
+
+**Problem → Research → Architecture → Implementation → Deployment**
+
+and turning it into something people can actually use.
+
+---
+
+## 🚀 What I'm Currently Building
+
+### 🔭 PETER — Autonomous Equity Research Agent
+
+Currently building **PETER**, a multi-agent AI system designed to automate parts of the equity research workflow.
+
+The system combines:
+
+- 📊 Financial & market data
+- 🤖 ML-based forecasting
+- 🔎 Automated research & retrieval
+- 🧠 LLM-powered synthesis
+- 🕸️ Multi-agent orchestration
+- 🧐 Analyst / Critic validation loops
+- 📝 Automated investment research reports
+
+<p>
+<a href="https://github.com/AyushChaki/PETER-Equity-Research">
+<img src="https://img.shields.io/badge/View%20Project-PETER-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="PETER">
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌱 Currently Learning
 
-I'm a **Biotechnology undergraduate at NIT Rourkela** with a strong interest in
-**Artificial Intelligence, Machine Learning, Generative AI, and Data Science**.
+### 🤖 Generative AI
 
-I enjoy turning ideas into practical systems — from **RAG applications and
-AI agents** to **ML prediction pipelines and data-driven applications**.
+`RAG` • `Embeddings` • `Vector Databases` • `LLM Applications`
 
-Currently, I'm focused on building strong foundations in **DSA with C++**
-while exploring **Agentic AI, LLM applications, and intelligent research systems**.
+### 🕸️ Agentic AI
 
-```text
-AI / ML
-   │
-   ├── Generative AI
-   │     ├── RAG
-   │     ├── LLM Applications
-   │     └── AI Agents
-   │
-   ├── Machine Learning
-   │     ├── Predictive Modeling
-   │     ├── Feature Engineering
-   │     └── Model Evaluation
-   │
-   └── Problem Solving
-         └── DSA • C++
-````
+`LangChain` • `LangGraph` • `Multi-Agent Systems` • `Tool Calling`
 
----
+### 📊 Machine Learning
 
-## 🚀 What I'm Currently Working On
+`Feature Engineering` • `Model Evaluation` • `Ensemble Methods` • `Deep Learning`
 
-🔭 **PETER — Autonomous Equity Research Agent**
+### 💻 Problem Solving
 
-An AI-powered multi-agent system designed to automate parts of the equity
-research workflow by combining financial data, ML forecasting, research
-retrieval, LLM reasoning, and analyst/critic-style validation.
-
-🌱 **Currently Learning**
-
-* Agentic AI & Multi-Agent Systems
-* Generative AI & RAG
-* LangChain / LangGraph
-* Machine Learning & Deep Learning
-* Data Science & Analytics
-* DSA & Competitive Programming with C++
-
-💬 **Ask Me About**
-
-`AI/ML` • `GenAI` • `RAG` • `AI Agents` • `Python` • `Data Science` •
-`DSA & C++` • `Computational Biology`
-
-⚡ **Fun Fact**
-
-> I think I'm funny. My friends are still evaluating the evidence. 😄
+`Data Structures` • `Algorithms` • `Recursion` • `Backtracking` • `Graphs` • `Dynamic Programming`
 
 ---
 
@@ -84,43 +89,47 @@ retrieval, LLM reasoning, and analyst/critic-style validation.
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Programming Languages">
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-</p>
-
-### 🧠 Generative AI & AI Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Mistral%20AI-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
-</p>
-
-### 🌐 Development & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+</p>
+
+### 🧠 Generative AI & Agentic AI
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge" alt="Mistral AI">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" alt="ChromaDB">
+<img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=flat-square" alt="Sentence Transformers">
+</p>
+
+### 🌐 Development & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,html,css" alt="Development Tools">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
 ---
@@ -130,44 +139,50 @@ retrieval, LLM reasoning, and analyst/critic-style validation.
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">PETER</h3>
+<h3 align="center">🤖 PETER</h3>
 
 <p align="center">
-  <a href="https://github.com/AyushChaki/PETER-Equity-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=PETER-Equity-Research&theme=github_dark&hide_border=true" />
-  </a>
+<a href="https://github.com/AyushChaki/PETER-Equity-Research">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=PETER-Equity-Research&theme=github_dark&hide_border=true" alt="PETER Repository">
+</a>
 </p>
 
 <p align="center">
-  <strong>Autonomous Equity Research Agent</strong>
+<b>Autonomous Equity Research Agent</b>
 </p>
 
 <p align="center">
-Multi-agent financial research system combining data retrieval,
-ML forecasting, LLM synthesis and analyst/critic validation.
+Multi-agent financial research system combining market data, ML forecasting, LLM reasoning, research retrieval and analyst/critic validation.
+</p>
+
+<p align="center">
+<code>Python</code> <code>LangGraph</code> <code>LLMs</code> <code>Machine Learning</code>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">MeetingMind</h3>
+<h3 align="center">🎥 MeetingMind</h3>
 
 <p align="center">
-  <a href="https://github.com/AyushChaki/MeetingMind_AI-Video-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=MeetingMind_AI-Video-Assistant&theme=github_dark&hide_border=true" />
-  </a>
+<a href="https://github.com/AyushChaki/MeetingMind_AI-Video-Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=MeetingMind_AI-Video-Assistant&theme=github_dark&hide_border=true" alt="MeetingMind Repository">
+</a>
 </p>
 
 <p align="center">
-  <strong>AI Video & Meeting Assistant</strong>
+<b>AI Video & Meeting Assistant</b>
 </p>
 
 <p align="center">
-AI-powered video understanding system using speech-to-text,
-information extraction and intelligent querying.
+AI-powered video understanding application for transcribing, processing and interacting with video content.
+</p>
+
+<p align="center">
+<code>Python</code> <code>Whisper</code> <code>AI</code> <code>Streamlit</code>
 </p>
 
 </td>
@@ -176,44 +191,50 @@ information extraction and intelligent querying.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">BuddyAI</h3>
+<h3 align="center">🧠 BuddyAI</h3>
 
 <p align="center">
-  <a href="https://github.com/AyushChaki/BuddyAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=BuddyAI&theme=github_dark&hide_border=true" />
-  </a>
+<a href="https://github.com/AyushChaki/BuddyAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=BuddyAI&theme=github_dark&hide_border=true" alt="BuddyAI Repository">
+</a>
 </p>
 
 <p align="center">
-  <strong>RAG-Based AI Assistant</strong>
+<b>RAG-Based AI Assistant</b>
 </p>
 
 <p align="center">
-Document-grounded conversational AI using embeddings,
-vector search and LLM-based response generation.
+Document-grounded conversational AI using embeddings, vector search and LLM-powered responses.
+</p>
+
+<p align="center">
+<code>RAG</code> <code>ChromaDB</code> <code>Mistral AI</code> <code>LangChain</code>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">OFFSIDE</h3>
+<h3 align="center">⚽ OFFSIDE</h3>
 
 <p align="center">
-  <a href="https://github.com/AyushChaki/OFFSIDE_FIFA_2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=OFFSIDE_FIFA_2026&theme=github_dark&hide_border=true" />
-  </a>
+<a href="https://github.com/AyushChaki/OFFSIDE_FIFA_2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=OFFSIDE_FIFA_2026&theme=github_dark&hide_border=true" alt="OFFSIDE Repository">
+</a>
 </p>
 
 <p align="center">
-  <strong>FIFA Match Prediction System</strong>
+<b>FIFA Match Prediction System</b>
 </p>
 
 <p align="center">
-Machine learning pipeline using engineered team statistics,
-ELO ratings and ensemble models for match outcome prediction.
+Machine learning pipeline using ELO ratings, engineered team statistics and ensemble models for match prediction.
+</p>
+
+<p align="center">
+<code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>Data Science</code>
 </p>
 
 </td>
@@ -221,34 +242,30 @@ ELO ratings and ensemble models for match outcome prediction.
 </tr>
 </table>
 
+<p align="center">
+<a href="https://github.com/AyushChaki?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories">
+</a>
+</p>
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AyushChaki&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark"
-    height="180"
-    alt="Ayush's GitHub Stats"
-  />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushChaki&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
- height="180"
- alt="Top Languages"
-/>
+src="./profile/stats.svg"
+alt="Ayush Chaki GitHub Statistics"
+width="48%"
+>
 
-</p>
+<img
+src="./profile/top-langs.svg"
+alt="Ayush Chaki Top Languages"
+width="48%"
+>
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AyushChaki&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
 </p>
 
 ---
@@ -256,77 +273,55 @@ ELO ratings and ensemble models for match outcome prediction.
 # 📈 Contribution Analytics
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushChaki&theme=github_dark"
-    alt="GitHub Contribution Analytics"
-  />
+
+<img
+src="./profile/metrics.svg"
+alt="Ayush Chaki GitHub Contribution Analytics"
+width="100%"
+>
+
 </p>
 
 ---
 
-# 📊 Commit & Activity Graph
+# 📅 Contribution Calendar
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushChaki&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+
+<img
+src="./profile/calendar.svg"
+alt="Ayush Chaki Contribution Calendar"
+width="100%"
+>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 DSA & Problem Solving
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AyushChaki&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
+I'm actively strengthening my **Data Structures & Algorithms** skills using **C++**, with a focus on:
 
----
-
-# 🧩 DSA & Problem Solving
-
-Currently strengthening my problem-solving skills through **Data Structures
-and Algorithms in C++**.
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `BST` • `Heaps` • `Recursion` • `Backtracking` • `Graphs` • `Dynamic Programming`
 
 <p align="center">
 
 <a href="https://leetcode.com/ayush_chekzz/">
-  <img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/AyushChaki">
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 </p>
 
-> Solving problems consistently to improve algorithmic thinking,
-> optimization, and coding fundamentals.
-
 ---
 
-# 🎯 Current Focus
+# 🎯 2026 Goals
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                 MY CURRENT ROADMAP                    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🧠 DSA & C++                                       │
-│       ↓                                              │
-│  🤖 Machine Learning                                │
-│       ↓                                              │
-│  🧬 GenAI + RAG                                     │
-│       ↓                                              │
-│  🕸️ Agentic AI & Multi-Agent Systems               │
-│       ↓                                              │
-│  🚀 Production-Ready AI Applications                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+- 🚀 Build and deploy more production-ready AI applications
+- 🤖 Go deeper into Agentic AI & Multi-Agent Systems
+- 💻 Strengthen DSA & problem-solving skills
+- 🌐 Build meaningful open-source projects
+- 🧬 Explore AI applications in computational biology
+- 💼 Secure a strong internship opportunity
 
 ---
 
@@ -335,52 +330,34 @@ and Algorithms in C++**.
 <p align="center">
 
 <a href="https://linkedin.com/in/ayush-chaki-a49165310">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Chaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Chaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:ayushchaki6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ayushchaki6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-ayushchaki6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.kaggle.com/ayushchaki">
-  <img src="https://img.shields.io/badge/Kaggle-Ayush%20Chaki-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Ayush%20Chaki-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 
 <a href="https://leetcode.com/ayush_chekzz/">
-  <img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Experimenting. Repeating. 🚀</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ If you find something interesting, feel free to explore my repositories!</b>
-</p>
+### 💭 Build. Break. Learn. Repeat. 🚀
 
-<!--
-============================================================
-GitHub Profile README
-Username: AyushChaki
-============================================================
+⭐ **If you find my projects interesting, consider giving them a star!**
 
-External dynamic widgets used:
-- github-readme-stats
-- github-readme-streak-stats
-- github-profile-summary-cards
-- github-readme-activity-graph
-- github-profile-trophy
+</div>
 
-If a widget temporarily stops rendering, the rest of the
-README remains functional because the widgets are independent.
-============================================================
--->
-
-```
-```
-
+<!-- ========================================================= -->
+<!--                    END OF README                           -->
+<!-- ========================================================= -->
 
