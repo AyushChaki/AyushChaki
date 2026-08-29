@@ -1,0 +1,82 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # -------------------------------------------------------
+      # GitHub Statistics
+      # -------------------------------------------------------
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=AyushChaki&show_icons=true&theme=github_dark&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # Top Languages
+      # -------------------------------------------------------
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=AyushChaki&layout=compact&langs_count=8&theme=github_dark&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # Contribution / GitHub Metrics
+      # -------------------------------------------------------
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: AyushChaki
+
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+      # -------------------------------------------------------
+      # Commit generated files
+      # -------------------------------------------------------
+
+      - name: Commit generated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile statistics"
+
+          git push
