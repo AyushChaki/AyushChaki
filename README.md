@@ -1,317 +1,176 @@
-<!-- ========================================================= -->
-<!--                    AYUSH CHAKI                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<h1>👋 Hi, I'm Ayush Chaki</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1f2e&height=180&section=header&text=Ayush%20Chaki&fontSize=46&fontColor=58A6FF&fontAlignY=40&desc=AI%20%2F%20ML%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Biotechnology&descAlignY=62&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
 
-<h3>AI/ML • Generative AI • Agentic AI • Data Science • DSA & C++</h3>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+%26+Agentic+AI;Solving+DSA+problems+in+C%2B%2B;Turning+ideas+into+real-world+projects" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+Biotechnology%2C+NIT+Rourkela+('24-'28);Building+AI%2FML+systems+across+fintech%2C+healthcare%2C+sports;AI+%C3%97+Agents+%C3%97+Data+%C3%97+Biotech" alt="Typing SVG" />
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/AyushChaki">
-<img src="https://img.shields.io/github/followers/AyushChaki?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/AyushChaki?tab=repositories">
-<img src="https://img.shields.io/github/stars/AyushChaki?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AyushChaki&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+[![GitHub](https://img.shields.io/badge/GitHub-AyushChaki-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AyushChaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ayush-chaki-a49165310/)
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+## About
 
-I'm a **Biotechnology undergraduate at NIT Rourkela** interested in building intelligent systems at the intersection of **AI, data, and real-world applications**.
+B.Tech Biotechnology student at NIT Rourkela (2024–2028), building AI/ML systems across fintech, healthcare, and sports analytics. Interested in applied AI, agentic systems, and explainable decision-making — turning unstructured or messy real-world data into systems that can reason and support decisions.
 
-My current journey revolves around **Machine Learning, Generative AI, RAG systems, Agentic AI, and Data Science**, while simultaneously building strong foundations in **Data Structures & Algorithms using C++**.
+<br/>
 
-I enjoy taking an idea from:
+## Featured Project — Horae
 
-**Problem → Research → Architecture → Implementation → Deployment**
+<div align="center">
 
-and turning it into something people can actually use.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:0D1117&height=100&section=header&text=%F0%9F%9B%A1%EF%B8%8F%20HORAE&fontSize=32&fontColor=58A6FF&fontAlignY=55" width="100%"/>
 
----
+</div>
 
-## 🚀 What I'm Currently Building
+**Merchant risk intelligence for fintech.**
 
-### 🔭 PETER — Autonomous Equity Research Agent
+Traditional merchant-risk systems tend to be reactive and rule-heavy, which makes them hard to interpret and slow to adapt. Horae is a prototype decision layer that reasons over merchant behavioural signals to surface risk earlier, with an emphasis on explainability rather than a black-box score.
 
-Currently building **PETER**, a multi-agent AI system designed to automate parts of the equity research workflow.
+```
+Merchant Signals → Risk Intelligence → AI Reasoning → Decision → Explanation
+```
 
-The system combines:
+**Focus areas:** AI/ML reasoning · behavioural signal analysis · risk scoring · anomaly detection · agentic workflows · explainable decision logic
 
-- 📊 Financial & market data
-- 🤖 ML-based forecasting
-- 🔎 Automated research & retrieval
-- 🧠 LLM-powered synthesis
-- 🕸️ Multi-agent orchestration
-- 🧐 Analyst / Critic validation loops
-- 📝 Automated investment research reports
+Developed in a Razorpay Buildathon-style fintech context. The current prototype runs on synthetic data.
 
-<p>
-<a href="https://github.com/AyushChaki/PETER-Equity-Research">
-<img src="https://img.shields.io/badge/View%20Project-PETER-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="PETER">
-</a>
-</p>
+<div align="center">
 
----
+[**View Repository →**](https://github.com/AyushChaki/Horae)
 
-## 🌱 Currently Learning
+</div>
 
-### 🤖 Generative AI
+<br/>
 
-`RAG` • `Embeddings` • `Vector Databases` • `LLM Applications`
-
-### 🕸️ Agentic AI
-
-`LangChain` • `LangGraph` • `Multi-Agent Systems` • `Tool Calling`
-
-### 📊 Machine Learning
-
-`Feature Engineering` • `Model Evaluation` • `Ensemble Methods` • `Deep Learning`
-
-### 💻 Problem Solving
-
-`Data Structures` • `Algorithms` • `Recursion` • `Backtracking` • `Graphs` • `Dynamic Programming`
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Programming Languages">
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
-</p>
-
-### 🧠 Generative AI & Agentic AI
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge" alt="Mistral AI">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="RAG">
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" alt="ChromaDB">
-<img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=flat-square" alt="Sentence Transformers">
-</p>
-
-### 🌐 Development & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,html,css" alt="Development Tools">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
-
----
-
-# ⭐ Featured Projects
+## Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 PETER</h3>
+### 💹 Peter
+**Autonomous Equity Research Analyst**
 
-<p align="center">
-<a href="https://github.com/AyushChaki/PETER-Equity-Research">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=PETER-Equity-Research&theme=github_dark&hide_border=true" alt="PETER Repository">
-</a>
-</p>
+Automates parts of a junior equity analyst's workflow: financial data feeds an ML forecast, an LLM-based analyst agent combines that with news and research context to draft a memo, and a separate critic agent reviews it before output.
 
-<p align="center">
-<b>Autonomous Equity Research Agent</b>
-</p>
+```
+Financial Data → ML Forecast → News/Research
+→ Analyst Agent → Critic Agent → Investment Memo
+```
 
-<p align="center">
-Multi-agent financial research system combining market data, ML forecasting, LLM reasoning, research retrieval and analyst/critic validation.
-</p>
+**Stack:** LangGraph · Multi-Agent Orchestration · LLM Reasoning · ML Forecasting
 
-<p align="center">
-<code>Python</code> <code>LangGraph</code> <code>LLMs</code> <code>Machine Learning</code>
-</p>
+[View Repository →](https://github.com/AyushChaki/PETER-Equity-Research)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3 align="center">🎥 MeetingMind</h3>
+### 🏥 Patient Triage
+**Clinical Decision Support**
 
-<p align="center">
-<a href="https://github.com/AyushChaki/MeetingMind_AI-Video-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=MeetingMind_AI-Video-Assistant&theme=github_dark&hide_border=true" alt="MeetingMind Repository">
-</a>
-</p>
+Built for an Accenture Hackathon. Combines an NLP-based urgency classifier with a rule-based risk engine (vitals and age) to prioritize patients transparently, including a mass-casualty/surge mode. Designed as a decision-support tool, not a diagnostic system.
 
-<p align="center">
-<b>AI Video & Meeting Assistant</b>
-</p>
+**Stack:** NLP Classification · Risk Engine · Explainable Logic
 
-<p align="center">
-AI-powered video understanding application for transcribing, processing and interacting with video content.
-</p>
-
-<p align="center">
-<code>Python</code> <code>Whisper</code> <code>AI</code> <code>Streamlit</code>
-</p>
+[View Repository →](https://github.com/satyadas22006/Patient_Triage.ai-Accenture-Hackathon-round-2-)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 BuddyAI</h3>
+### ⚽ OFFSIDE
+**FIFA Match Prediction**
 
-<p align="center">
-<a href="https://github.com/AyushChaki/BuddyAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=BuddyAI&theme=github_dark&hide_border=true" alt="BuddyAI Repository">
-</a>
-</p>
+Compared six models — Logistic Regression, Random Forest, LightGBM, SVM, XGBoost, and Poisson Regression — on historical FIFA data with engineered match features and ELO-style ratings derived from FIFA rankings. XGBoost was selected as the final model.
 
-<p align="center">
-<b>RAG-Based AI Assistant</b>
-</p>
+**Stack:** XGBoost · Feature Engineering · ELO Ratings
 
-<p align="center">
-Document-grounded conversational AI using embeddings, vector search and LLM-powered responses.
-</p>
-
-<p align="center">
-<code>RAG</code> <code>ChromaDB</code> <code>Mistral AI</code> <code>LangChain</code>
-</p>
+[View Repositories →](https://github.com/AyushChaki?tab=repositories)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3 align="center">⚽ OFFSIDE</h3>
+### 🧠 Mental Health Score
+**ML + API**
 
-<p align="center">
-<a href="https://github.com/AyushChaki/OFFSIDE_FIFA_2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushChaki&repo=OFFSIDE_FIFA_2026&theme=github_dark&hide_border=true" alt="OFFSIDE Repository">
-</a>
-</p>
+An end-to-end ML engineering exercise: a scikit-learn model trained on structured student data, served through a FastAPI backend, with deployment experimentation. Framed as a technical workflow, not a diagnostic tool.
 
-<p align="center">
-<b>FIFA Match Prediction System</b>
-</p>
+```
+Dataset → Model → API → Deployment
+```
 
-<p align="center">
-Machine learning pipeline using ELO ratings, engineered team statistics and ensemble models for match prediction.
-</p>
+**Stack:** Scikit-learn · FastAPI · Pandas/NumPy
 
-<p align="center">
-<code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>Data Science</code>
-</p>
+[View Repositories →](https://github.com/AyushChaki?tab=repositories)
 
 </td>
-
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/AyushChaki?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories">
-</a>
-</p>
+<br/>
 
----
+## Currently Exploring
 
+Agentic AI · LLM systems · ML pipelines · AI × Finance · MCP / tool-based AI · AI × Biotechnology
 
+<br/>
 
-# 💻 DSA & Problem Solving
+## Tech Stack
 
-I'm actively strengthening my **Data Structures & Algorithms** skills using **C++**, with a focus on:
+**Languages & Core**
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `BST` • `Heaps` • `Recursion` • `Backtracking` • `Graphs` • `Dynamic Programming`
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-<p align="center">
+**ML / Data**
 
-<a href="https://leetcode.com/ayush_chekzz/">
-<img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logoColor=EB6C2D)
 
-</p>
+**GenAI / Agents**
 
----
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=1C3C3C)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-0D1117?style=for-the-badge&logoColor=FA520F)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=8A2BE2)
 
-# 🎯 2026 Goals
+**Engineering**
 
-- 🚀 Build and deploy more production-ready AI applications
-- 🤖 Go deeper into Agentic AI & Multi-Agent Systems
-- 💻 Strengthen DSA & problem-solving skills
-- 🌐 Build meaningful open-source projects
-- 🧬 Explore AI applications in computational biology
-- 💼 Secure a strong internship opportunity
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
----
+**Data / Retrieval**
 
-# 🤝 Let's Connect
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=58A6FF)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-0D1117?style=for-the-badge&logoColor=58A6FF)
 
-<p align="center">
+<br/>
 
-<a href="https://linkedin.com/in/ayush-chaki-a49165310">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Chaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:ayushchaki6@gmail.com">
-<img src="https://img.shields.io/badge/Email-ayushchaki6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://www.kaggle.com/ayushchaki">
-<img src="https://img.shields.io/badge/Kaggle-Ayush%20Chaki-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
-
-<a href="https://leetcode.com/ayush_chekzz/">
-<img src="https://img.shields.io/badge/LeetCode-ayush__chekzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
-
-</p>
-
----
+## Connect
 
 <div align="center">
 
-### 💭 Build. Break. Learn. Repeat. 🚀
+[![GitHub](https://img.shields.io/badge/GitHub-AyushChaki-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AyushChaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ayush-chaki-a49165310/)
 
-⭐ **If you find my projects interesting, consider giving them a star!**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1f2e&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=58A6FF&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    END OF README                           -->
-<!-- ========================================================= -->
-
