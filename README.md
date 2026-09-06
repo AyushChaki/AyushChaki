@@ -39,7 +39,6 @@ Merchant Signals → Risk Intelligence → AI Reasoning → Decision → Explana
 
 **Focus areas:** AI/ML reasoning · behavioural signal analysis · risk scoring · anomaly detection · agentic workflows · explainable decision logic
 
-Developed in a Razorpay Buildathon-style fintech context. The current prototype runs on synthetic data.
 
 <div align="center">
 
